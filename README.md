@@ -11,3 +11,5 @@
 4. It´s possible see group information
 
 5. Ban users and delete the group
+
+Demo: https://chat-fire-7d63f.web.app/
