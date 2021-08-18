@@ -1,0 +1,36 @@
+.parciListItem {
+  display: flex;
+  height: 50px;
+  cursor: pointer;
+  align-items: center;
+  margin-bottom: 10px;
+  border-top: 1px solid #f2f2f2;
+}
+
+.parciListItem-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.parciListItem-name {
+  font-size: 17px;
+  color: #000;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.parciListItem-admin {
+  display: inline block;
+  font-size: 11px;
+  height: 16px;
+  padding: 0px 5px 0;
+  border: 1px solid #0084ff;
+  color: #0084ff;
+  border-radius: 3px;
+  line-height: 14px;
+  margin-left: 10px;
+  margin-top: 12px;
+}
